@@ -1,7 +1,6 @@
 package com.nowcoder.community.dao;
 
 import com.nowcoder.community.entity.Message;
-import com.sun.xml.internal.org.jvnet.fastinfoset.stax.LowLevelFastInfosetStreamWriter;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
